@@ -1,0 +1,16 @@
+com/kafka/util/CustomSerializer.java
+ com.kafka.util.CustomSerializer
+com/kafka/util/CustomObjectDeserializer.java
+ com.kafka.util.CustomObjectDeserializer
+com/kafka/util/CustomPartitioner.java
+ com.kafka.util.CustomPartitioner
+com/kafka/model/MessageModel.java
+ com.kafka.model.MessageModel
+com/kafka/producer/KafkaSampleProducer.java
+ com.kafka.producer.KafkaSampleProducer
+com/kafka/constants/KafkaConstants.java
+ com.kafka.constants.KafkaConstants
+com/kafka/consumer/KafkaSampleConsumer2.java
+ com.kafka.consumer.KafkaSampleConsumer2
+com/kafka/consumer/KafkaSampleConsumer.java
+ com.kafka.consumer.KafkaSampleConsumer
